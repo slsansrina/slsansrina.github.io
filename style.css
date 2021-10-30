@@ -3,10 +3,22 @@
   background-color: #e2edff;
 }
 
-#galery {
+#highlight {
+  background-color: #e2edff;
+}
+
+#contact {
   background-color: #e2edff;
 }
 
 section {
   padding-top: 5rem;
+}
+
+.galery-img {
+  width: 100%;
+}
+
+#gallery .row > * {
+  padding: 0;
 }
