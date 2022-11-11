@@ -1,6 +1,6 @@
 .jumbotron {
   padding-top: 7rem;
-  background-color: #e2edff;
+  background-color: #00f7ff;
 }
 
 #highlight {
@@ -21,4 +21,22 @@ section {
 
 #gallery .row > * {
   padding: 0;
+}
+
+#contact {
+  background: #00f7ff;
+  padding: 50px 0px 50px 0px;
+}
+
+.footer {
+  width: 100%;
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+}
+
+.footer-section {
+  width: 20%;
+  margin: 0 auto;
 }
